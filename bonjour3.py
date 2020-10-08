@@ -1,10 +1,17 @@
 #!/usr/bin/env python3
-# deuxième script
+"""
+mon 2e script python démontre comment utiliser un autre script
+
+par: Thomas Barkley
+"""
 
 import bonjour
 
 
 def main():
+    """
+    focntion principale du script
+    """
     bonjour.main()
     bonjour.main()
     bonjour.main()
